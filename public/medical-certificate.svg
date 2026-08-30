@@ -1,0 +1,23 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="560" rx="24" fill="#FDF2F8"/>
+  <rect x="40" y="40" width="820" height="480" rx="18" fill="white" stroke="#F9A8D4" stroke-width="2"/>
+  <rect x="74" y="74" width="140" height="44" rx="12" fill="#FCE7F3"/>
+  <text x="146" y="103" text-anchor="middle" font-size="20" font-weight="700" fill="#BE185D" font-family="Arial, sans-serif">PRAAN</text>
+  <text x="450" y="125" text-anchor="middle" font-size="28" font-weight="700" fill="#1F2937" font-family="Arial, sans-serif">MEDICAL CERTIFICATE</text>
+  <line x1="220" y1="150" x2="680" y2="150" stroke="#F9A8D4" stroke-width="2"/>
+  <text x="90" y="205" font-size="20" fill="#374151" font-family="Arial, sans-serif">Patient ID / UHID:</text>
+  <text x="360" y="205" font-size="20" font-weight="700" fill="#111827" font-family="Arial, sans-serif">PRAAN-1001</text>
+  <text x="90" y="245" font-size="20" fill="#374151" font-family="Arial, sans-serif">Date of Consultation:</text>
+  <text x="360" y="245" font-size="20" font-weight="700" fill="#111827" font-family="Arial, sans-serif">18 Aug 2026</text>
+  <text x="90" y="285" font-size="20" fill="#374151" font-family="Arial, sans-serif">Diagnosis:</text>
+  <text x="360" y="285" font-size="20" font-weight="700" fill="#111827" font-family="Arial, sans-serif">Controlled Hypertension / Routine Review</text>
+  <text x="90" y="325" font-size="20" fill="#374151" font-family="Arial, sans-serif">Recommendation:</text>
+  <text x="360" y="325" font-size="20" font-weight="700" fill="#111827" font-family="Arial, sans-serif">Continue medication and follow-up in 4 weeks</text>
+  <text x="90" y="395" font-size="20" fill="#374151" font-family="Arial, sans-serif">Doctor:</text>
+  <text x="360" y="395" font-size="20" font-weight="700" fill="#111827" font-family="Arial, sans-serif">Dr. Rajesh Kulkarni</text>
+  <text x="90" y="435" font-size="20" fill="#374151" font-family="Arial, sans-serif">Signature &amp; Seal</text>
+  <line x1="510" y1="420" x2="760" y2="420" stroke="#D1D5DB" stroke-width="2"/>
+  <text x="600" y="445" text-anchor="middle" font-size="18" fill="#6B7280" font-family="Arial, sans-serif">Cardiologist</text>
+  <circle cx="760" cy="158" r="42" fill="#FCE7F3"/>
+  <path d="M760 128C745 128 733 140 733 155C733 176 760 195 760 195C760 195 787 176 787 155C787 140 775 128 760 128ZM760 141C767.732 141 774 147.268 774 155C774 166.054 760 178.055 760 178.055C760 178.055 746 166.054 746 155C746 147.268 752.268 141 760 141Z" fill="#EC4899"/>
+</svg>
